@@ -10,5 +10,5 @@ worth of material collected from the internet.
 
 ### Online Resources
 
-[vector control](https://en.wikipedia.org/wiki/Vector_control_(motor))
+[vector control](https://en.wikipedia.org/wiki/Vector_control_(motor))  
 [SVM](https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro)
