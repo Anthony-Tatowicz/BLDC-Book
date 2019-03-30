@@ -1,6 +1,6 @@
 # Motorcontrol-Book
 
-Collection of resources for BLDC motor control.  
+Collection of resources for motor control.  
 
 This book was originally a collection of guides and manuals bound in a binder by Michael Hibbard    
 for UTA racing's electric car. I found this book very useful and informative and decided to add  
